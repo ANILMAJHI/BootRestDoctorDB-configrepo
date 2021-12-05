@@ -3,7 +3,7 @@ spring:
     url: jdbc:oracle:thin:@localhost:1521:orcl11
     password: pinku
     username: system
-    driver-class-name: "oracle.jdbc.OracleDriver"
+    driver-class-name: oracle.jdbc.OracleDriver
   jpa:
     
     database: ORACLE
